@@ -1,0 +1,57 @@
+1-> sort an array to sepatate even and odd numbers sorted .👌
+    -- bubble sort check if even sort or not.
+    
+2-> understand the impelentations of printf and scaf.🤨
+
+4-> how the function return a value what happen in memory???
+
+/---------------------------- search for ---------------------------------
+
+3-> void poiter 
+    pointer to function 
+         void (*fun_ptr)(int) = fun;  // & removed
+         fun_ptr(10);  // * removed
+
+    pointer which it's step the size of array
+
+4-> array of chatacters _<>=_ pointer of chatacters
+    / Pointer to an integer
+    int *p;
+
+    // Pointer to an array of 5 integers
+    int (*ptr)[5];
+    int arr[5];
+    
+    // Points to 0th element of the arr.
+    p = arr;
+     
+    // Points to the whole array arr.
+    ptr = &arr;
+     
+    printf("p = %p, ptr = %p\n", p, ptr);
+     
+    p++;
+    ptr++;
+     
+    printf("p = %p, ptr = %p\n", p, ptr);
+
+
+/-------------------- 3/11/2023-------------------------
+1=> signed for float and double .
+2_> shift for signed variable.
+
+
+/-------------------- to code 11/3/2023 ----------------------------------
+1-> string (" .... .. ....... .... ..... ...  ")                        👌😎
+    scanf take this string .
+    function-> count the tallest chatacters sequence tallest word.
+
+2-> string ("abdexfrmnopr-----------)                                   👌😎
+    function-> check the tallest chatacters sequence the is a valid sequence abdcefg----.
+    
+3->  var=1011101110101110101111111101011111 ------                      👌😎
+    function count numbers of 1 between 2 zeros 
+
+/-------------------- to code 12/3/2023 ----------------------------------
+
+
